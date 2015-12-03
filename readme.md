@@ -28,7 +28,3 @@ getColors(list);
 // => 'blue'
 // => 'purple'
 ```
-
-
-
-3. Write a function that logs the object with the greatest strength attribute.
